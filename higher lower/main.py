@@ -1,7 +1,7 @@
 import art
 import random
 import game_data
-from replit import clear
+#import command to clear screen
 
 print(art.logo)
 
@@ -45,7 +45,7 @@ while streak:
     contender_2 = random.choice(game_data.data)
   else:
     streak = False
-    clear()
+    #put command to clear screen
     print(f"You lose! Final score: {SCORE}")
 
 
