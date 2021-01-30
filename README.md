@@ -1,4 +1,4 @@
-# 100-Days-of-Code---Python
+# 100-Days-of-Code- Beginner Level
 
 
 These are the projects I made with the things I've learned in the 100 Days of Code made by The App Brewery, UK.
