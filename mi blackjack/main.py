@@ -1,6 +1,6 @@
 
 import random
-from replit import clear
+#put import to clear the screen
 from art import logo
 
 def deal_card():
@@ -81,5 +81,5 @@ def play_game():
 
 
 while input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == "y":
-  clear()
+  #insert command for screen cleaning to restart the game
   play_game()
